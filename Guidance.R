@@ -7,7 +7,7 @@ config <- list(
   host = "host",
   user = "root",
   dbname = "your_database",
-  port = 2000,
+  port = your_port,
   password = "your_password"
 )
 
